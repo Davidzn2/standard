@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'PulseRounded';
+  src: url('fonts/pulse_rounded/Pulse-Rounded-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PulseRounded';
+  src: url('fonts/pulse_rounded/Pulse-Rounded-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PulseRounded';
+  src: url('fonts/pulse_rounded/Pulse-Rounded-Italic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'PulseRounded';
+  src: url('fonts/pulse_rounded/Pulse-Rounded-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
